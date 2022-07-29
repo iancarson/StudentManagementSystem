@@ -1,4 +1,7 @@
-# StudentManagementSystem
+
+<p align="center">
+    Student Management System using Java Programming language.
+</p>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-10070-brightgreen.svg">

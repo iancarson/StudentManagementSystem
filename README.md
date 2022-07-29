@@ -1,8 +1,9 @@
 
 <p align="center">
     Student Management System using Java Programming language.
-	The project is not under maintainance anymore
 </p>
+<p align="center">
+	The project is not maintained anymore. You can download and use it as you wish.
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/ManagementSystem-brightgreen.svg">
